@@ -1,0 +1,122 @@
+iso3,state_name,CCode
+AFG,Afghanistan,700
+ALB,Albania,339
+AND,Andorra,232
+ARG,Argentina,160
+ARM,Armenia,371
+AUS,Australia,305
+AZE,Azerbaijan,373
+BLR,Belarus,370
+BEL,Belgium,211
+BLZ,Belize,80
+BEN,Benin,434
+BOL,Bolivia,145
+BRA,Brazil,140
+CAN,Canada,20
+CHL,Chile,155
+CHN,China,710
+COL,Colombia,100
+COM,Comoros,581
+CUB,Cuba,40
+CYP,Cyprus,352
+CZE,Czech Republic,315
+DJI,Djibouti,522
+DMA,Dominica,54
+DOM,Dominican Republic,42
+ECU,Ecuador,130
+EGY,"Egypt, Arab Rep.",651
+SLV,El Salvador,349
+ERI,Eritrea,531
+EST,Estonia,366
+SWZ,Eswatini,225
+ETH,Ethiopia(excludes Eritrea),530
+FIN,Finland,375
+GAB,Gabon,481
+GHA,Ghana,452
+GRC,Greece,350
+GNB,Guinea-Bissau,404
+GUY,Guyana,110
+HUN,Hungary,310
+IND,India,750
+IRN,"Iran, Islamic Rep.",630
+IRQ,Iraq,645
+ISR,Israel,666
+ITA,Italy,325
+JAM,Jamaica,51
+JPN,Japan,740
+JOR,Jordan,663
+KEN,Kenya,501
+KIR,Kiribati,946
+PRK,"Korea, Dem. Rep.",731
+KOR,"Korea, Rep.",730
+LAO,Lao PDR,812
+LBR,Liberia,450
+LUX,Luxembourg,212
+MAC,Macao,343
+MLI,Mali,432
+MLT,Malta,338
+MEX,Mexico,70
+FSM,"Micronesia, Fed. Sts.",987
+MNG,Mongolia,341
+NAM,Namibia,565
+NIC,Nicaragua,93
+NOR,Norway,385
+PAK,Pakistan,770
+PAN,Panama,95
+PNG,Papua New Guinea,910
+PER,Peru,135
+POL,Poland,290
+QAT,Qatar,694
+ROM,Romania,360
+RUS,Russian Federation,365
+RWA,Rwanda,517
+WSM,Samoa,990
+STP,Sao Tome and Principe,403
+SAU,Saudi Arabia,670
+SEN,Senegal,433
+SOM,Somalia,520
+SSD,South Sudan,626
+SUD,Sudan,625
+SUR,Suriname,115
+SYR,Syrian Arab Republic,652
+TON,Tonga,955
+TUN,Tunisia,616
+TUR,Turkey,640
+TKM,Turkmenistan,701
+TUV,Tuvalu,947
+UGA,Uganda,500
+UKR,Ukraine,369
+USA,United States,2
+UZB,Uzbekistan,704
+VEN,Venezuela,101
+YEM,Yemen,679
+YUG,"Yugoslavia,FR(Serbia/Montenegr",345
+BHS,Bahamas,31
+ATG,Antigua & Barbuda,58
+LIE,Liechtenstein,223
+,Hanover,240
+,Bavaria,245
+,German Federal Republic,260
+,Baden,267
+,Saxony,269
+,Wuerttemburg,271
+,Hesse Electoral,273
+,Hesse Grand Ducal,275
+,Mecklenburg Schwerin,280
+,Austria-Hungary,300
+SVK,Slovakia,317
+,Papal States,327
+,Two Sicilies,329
+,Modena,332
+,Parma,335
+,Tuscany,337
+,Kosovo,347
+GMB,Gambia,420
+CIV,Ivory Coast,437
+COG,Congo,484
+COD,Democratic Republic of the Congo,490
+TZA,Zanzibar,511
+YMD,Yemen People's Republic,680
+KGZ,Kyrgyzstan,703
+TWN,Taiwan,713
+,Republic of Vietnam,817

@@ -1,0 +1,267 @@
+state_name,iso3
+Afghanistan,AFG
+Albania,ALB
+Algeria,DZA
+American Samoa,ASM
+Andorra,AND
+Angola,AGO
+Anguila,AIA
+Antarctica,ATA
+Antigua and Barbuda,ATG
+Argentina,ARG
+Armenia,ARM
+Aruba,ABW
+Australia,AUS
+Austria,AUT
+Azerbaijan,AZE
+"Bahamas, The",BHS
+Bahrain,BHR
+Bangladesh,BGD
+Barbados,BRB
+Belarus,BLR
+Belgium,BEL
+Belgium-Luxembourg,BLX
+Belize,BLZ
+Benin,BEN
+Bermuda,BMU
+Bhutan,BTN
+Bolivia,BOL
+Bonaire,BES
+Bosnia and Herzegovina,BIH
+Botswana,BWA
+Bouvet Island,BVT
+Br. Antr. Terr,BAT
+Brazil,BRA
+British Indian Ocean Ter.,IOT
+British Virgin Islands,VGB
+Brunei,BRN
+Bulgaria,BGR
+Bunkers,BUN
+Burkina Faso,BFA
+Burundi,BDI
+Cambodia,KHM
+Cameroon,CMR
+Canada,CAN
+Cape Verde,CPV
+Cayman Islands,CYM
+Central African Republic,CAF
+Chad,TCD
+Chile,CHL
+China,CHN
+Christmas Island,CXR
+Cocos (Keeling) Islands,CCK
+Colombia,COL
+Comoros,COM
+"Congo, Dem. Rep.",ZAR
+"Congo, Rep.",COG
+Cook Islands,COK
+Costa Rica,CRI
+Cote d'Ivoire,CIV
+Croatia,HRV
+Cuba,CUB
+Cura�ao,CUW
+Cyprus,CYP
+Czech Republic,CZE
+Czechoslovakia,CSK
+Denmark,DNK
+Djibouti,DJI
+Dominica,DMA
+Dominican Republic,DOM
+East Asia & Pacific,EAS
+East Timor,TMP
+Ecuador,ECU
+"Egypt, Arab Rep.",EGY
+El Salvador,SLV
+Equatorial Guinea,GNQ
+Eritrea,ERI
+Estonia,EST
+Eswatini,SWZ
+Ethiopia(excludes Eritrea),ETH
+Ethiopia(includes Eritrea),ETF
+Europe & Central Asia,ECS
+Faeroe Islands,FRO
+Falkland Island,FLK
+Fiji,FJI
+Finland,FIN
+Fm Sudan,SDN
+Fr. So. Ant. Tr,ATF
+France,FRA
+Free Zones,FRE
+French Guiana,GUF
+French Polynesia,PYF
+Gabon,GAB
+"Gambia, The",GMB
+Georgia,GEO
+German Democratic Republic,DDR
+Germany,DEU
+Ghana,GHA
+Gibraltar,GIB
+Greece,GRC
+Greenland,GRL
+Grenada,GRD
+Guadeloupe,GLP
+Guam,GUM
+Guatemala,GTM
+Guinea,GIN
+Guinea-Bissau,GNB
+Guyana,GUY
+Haiti,HTI
+Heard Island and McDonald Isla,HMD
+Holy See,VAT
+Honduras,HND
+"Hong Kong, China",HKG
+Hungary,HUN
+Iceland,ISL
+India,IND
+Indonesia,IDN
+"Iran, Islamic Rep.",IRN
+Iraq,IRQ
+Ireland,IRL
+Israel,ISR
+Italy,ITA
+Jamaica,JAM
+Japan,JPN
+Jordan,JOR
+Kazakhstan,KAZ
+Kenya,KEN
+Kiribati,KIR
+"Korea, Dem. Rep.",PRK
+"Korea, Rep.",KOR
+Kuwait,KWT
+Kyrgyz Republic,KGZ
+Lao PDR,LAO
+Latin America & Caribbean,LCN
+Latvia,LVA
+Lebanon,LBN
+Lesotho,LSO
+Liberia,LBR
+Libya,LBY
+Lithuania,LTU
+Luxembourg,LUX
+Macao,MAC
+Madagascar,MDG
+Malawi,MWI
+Malaysia,MYS
+Maldives,MDV
+Mali,MLI
+Malta,MLT
+Marshall Islands,MHL
+Martinique,MTQ
+Mauritania,MRT
+Mauritius,MUS
+Mayotte,MYT
+Mexico,MEX
+"Micronesia, Fed. Sts.",FSM
+Middle East & North Africa,MEA
+Moldova,MDA
+Monaco,MCO
+Mongolia,MNG
+Montenegro,MNT
+Montserrat,MSR
+Morocco,MAR
+Mozambique,MOZ
+Myanmar,MMR
+Namibia,NAM
+Nauru,NRU
+Nepal,NPL
+Netherlands,NLD
+Netherlands Antilles,ANT
+Neutral Zone,NZE
+New Caledonia,NCL
+New Zealand,NZL
+Nicaragua,NIC
+Niger,NER
+Nigeria,NGA
+Niue,NIU
+Norfolk Island,NFK
+North America,NAC
+North Macedonia,MKD
+Northern Mariana Islands,MNP
+Norway,NOR
+Not Applicable,999
+Occ.Pal.Terr,PSE
+Oman,OMN
+"Other Asia, nes",OAS
+Pacific Islands,PCE
+Pakistan,PAK
+Palau,PLW
+Panama,PAN
+Papua New Guinea,PNG
+Paraguay,PRY
+Peru,PER
+Philippines,PHL
+Pitcairn,PCN
+Poland,POL
+Portugal,PRT
+Qatar,QAT
+Reunion,REU
+Romania,ROM
+Russian Federation,RUS
+Rwanda,RWA
+Saint Barth�lemy,BLM
+Saint Helena,SHN
+Saint Maarten (Dutch part),SXM
+Saint Pierre and Miquelon,SPM
+Samoa,WSM
+San Marino,SMR
+Sao Tome and Principe,STP
+Saudi Arabia,SAU
+Senegal,SEN
+"Serbia, FR(Serbia/Montenegro)",SER
+Seychelles,SYC
+Sierra Leone,SLE
+Singapore,SGP
+Slovak Republic,SVK
+Slovenia,SVN
+Solomon Islands,SLB
+Somalia,SOM
+South Africa,ZAF
+South Asia,SAS
+South Georgia and the South Sa,SGS
+South Sudan,SSD
+Soviet Union,SVU
+Spain,ESP
+Special Categories,SPE
+Sri Lanka,LKA
+St. Kitts and Nevis,KNA
+St. Lucia,LCA
+St. Vincent and the Grenadines,VCT
+Sub-Saharan Africa,SSF
+Sudan,SUD
+Suriname,SUR
+Sweden,SWE
+Switzerland,CHE
+Syrian Arab Republic,SYR
+Tajikistan,TJK
+Tanzania,TZA
+Thailand,THA
+Togo,TGO
+Tokelau,TKL
+Tonga,TON
+Trinidad and Tobago,TTO
+Tunisia,TUN
+Turkey,TUR
+Turkmenistan,TKM
+Turks and Caicos Isl.,TCA
+Tuvalu,TUV
+Uganda,UGA
+Ukraine,UKR
+United Arab Emirates,ARE
+United Kingdom,GBR
+United States,USA
+United States Minor Outlying I,UMI
+Unspecified,UNS
+Uruguay,URY
+Us Msc.Pac.I,USP
+Uzbekistan,UZB
+Vanuatu,VUT
+Venezuela,VEN
+Vietnam,VNM
+Wallis and Futura Isl.,WLF
+Western Sahara,ESH
+World,WLD
+Yemen,YEM
+Yemen Democratic,YDR
+"Yugoslavia,FR(Serbia/Montenegr",YUG
+Zambia,ZMB
+Zimbabwe,ZWE
